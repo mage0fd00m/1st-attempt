@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The web site of mage0fd00m</title>
+  <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  <style>
+    body {
+      background-color: #204020;
+      color: #000000;
+    }
+    h1 {
+      color: #FFFFCC;
+    }
+    a {
+      color: #FFFFCC;
+    }
+    img {
+      border: 5px solid #000000;
+    }
+    .body-text {
+      background-color: #FFFFCC; /* light yellow */
+      padding: 20px; /* adjust padding as needed */
+      margin-top: 20px; /* adjust margin as needed */
+    }
+  </style>
+</head>
+<body>
+  
+  <h1>Welcome to my Web2iite of doom and gloom!</h1>
+
+  <p>Main Document link that will eventually get cleaned up: <a href="https://docs.google.com/document/d/1MwxIrY5b_qfc-oYU39n2QcszS_AhPb-w2vi_-cSy6g/edit?usp=sharing">Doom Magjiik2</a>.</p>
+
+  <p>II'm your Mage here four thii2 2tuiipiid journey. II u2e He/It/Doom pronoun2 and ii'm wiithiin the 21-25 age range.</p>
+
+  <img src="/gemini-doom-symbol.jpg">
+
+  <div class="body-text">
+    <p>BASIC FAQ:</p>
+
+    <ul>
+      <li>Is this for real? As real as you want iit two bee, iidk man</li>
+      <li> Is there in person events? yeah, but you have two emaiil me fiir2t. mage0fd00m@proton.me
+      <li>What kind of magic/religion is this? weiird and unrealiity kiind </i>
+      <li>Are you batshit? Ye2, ye2 ii am.</li>
+    </ul>
+    
+    <p> What will I find here?</p>
+    <ul>
+       <li>Spells</li>
+       <li>How to make magic friendly piles </li> 
+       <li>Scrying techniques</li>
+       <li>Tarot Spreads</li>
+       <li>Roadkill bone reading guide </li> 
+       <li>How to curse items to be doomed </li> 
+       <li>How to safely(!) do a blood pact for a rotting g0d</li>
+       <li>How to interpret your doomed readings</li> 
+       <li>How to do a proper sacrifice of life energy </li>
+    
+    <p>What drugs do you take?</p> 
+    
+    <ul> 
+      <li>Daily: Depakote [500mg total], Abiiliify [10mg], Latuda [100mg a day], iiron piill2 [50mg], mag oxiide [100mg], and weed [2-5 bowl2, depend2 on the day iidk]</li>
+      <li>Monthly: Aciid, shroom2, dreamiing herb2, numbiing honey and ketamiine </li>
+      <li>Yearly: MDMA/Molly, DMT and [pure] miind honey.</li>
+    </ul>
+  </div>
+  
+</body>
+</html>
